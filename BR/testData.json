@@ -1,0 +1,836 @@
+[
+  {
+    "id": "BkD5k_tsb",
+    "shortName": "H",
+    "longName": "Hydrogen",
+    "weight": "1.00794",
+    "type": "chemical"
+  },
+   {
+    "id": "asfsd2312",
+    "firstName": "Dr",
+    "nickName": "Cthulhu",
+    "lastName": "Zoidberg",
+    "imgSrc": "/img/1.jpg",
+    "type": "character"
+  },
+  {
+    "id": "rygw91OYjZ",
+    "shortName": "He",
+    "longName": "Helium",
+    "weight": "4.002602",
+    "type": "chemical"
+  },
+  {
+    "id": "r1WDqkOKjW",
+    "shortName": "Li",
+    "longName": "Lithium",
+    "weight": "6.941",
+    "type": "chemical"
+  },
+  {
+    "id": "r1fD5J_YiW",
+    "shortName": "Be",
+    "longName": "Beryllium",
+    "weight": "9.012182",
+    "type": "chemical"
+  },
+  {
+    "id": "r1mP5ydYoZ",
+    "shortName": "B",
+    "longName": "Boron",
+    "weight": "10.811",
+    "type": "chemical"
+  },
+  {
+    "id": "Bk4PqJ_KsZ",
+    "shortName": "C",
+    "longName": "Carbon",
+    "weight": "12.0107",
+    "type": "chemical"
+  },
+  {
+    "id": "B1HvckdKo-",
+    "shortName": "N",
+    "longName": "Nitrogen",
+    "weight": "14.0067",
+    "type": "chemical"
+  },
+  {
+    "id": "SyLDqydYjb",
+    "shortName": "O",
+    "longName": "Oxygen",
+    "weight": "15.9994",
+    "type": "chemical"
+  },
+  {
+    "id": "rywDqJOtsW",
+    "shortName": "F",
+    "longName": "Fluorine",
+    "weight": "18.9984032",
+    "type": "chemical"
+  },
+  {
+    "id": "BJuDqJOKj-",
+    "shortName": "Ne",
+    "longName": "Neon",
+    "weight": "20.1797",
+    "type": "chemical"
+  },
+  {
+    "id": "ryYwq1_FjZ",
+    "shortName": "Na",
+    "longName": "Sodium",
+    "weight": "22.98976...",
+    "type": "chemical"
+  },
+  {
+    "id": "HJ5v9k_Ks-",
+    "shortName": "Mg",
+    "longName": "Magnesium",
+    "weight": "24.305",
+    "type": "chemical"
+  },
+  {
+    "id": "HJswqy_ts-",
+    "shortName": "Al",
+    "longName": "Aluminium",
+    "weight": "26.9815386",
+    "type": "chemical"
+  },
+  {
+    "id": "rk3w9JOYs-",
+    "shortName": "Si",
+    "longName": "Silicon",
+    "weight": "28.0855",
+    "type": "chemical"
+  },
+  {
+    "id": "ryTvcJOKoW",
+    "shortName": "P",
+    "longName": "Phosphorus",
+    "weight": "30.973762",
+    "type": "chemical"
+  },
+  {
+    "id": "B10w5yuYiZ",
+    "shortName": "S",
+    "longName": "Sulfur",
+    "weight": "32.065",
+    "type": "chemical"
+  },
+  {
+    "id": "rykew91Otjb",
+    "shortName": "Cl",
+    "longName": "Chlorine",
+    "weight": "35.453",
+    "type": "chemical"
+  },
+  {
+    "id": "ByxevcyuYi-",
+    "shortName": "Ar",
+    "longName": "Argon",
+    "weight": "39.948",
+    "type": "chemical"
+  },
+  {
+    "id": "Hy-eD9yOFj-",
+    "shortName": "K",
+    "longName": "Potassium",
+    "weight": "39.948",
+    "type": "chemical"
+  },
+  {
+    "id": "H1zxP51_KoZ",
+    "shortName": "Ca",
+    "longName": "Calcium",
+    "weight": "40.078",
+    "type": "chemical"
+  },
+  {
+    "id": "rkmePqkdYiZ",
+    "shortName": "Sc",
+    "longName": "Scandium",
+    "weight": "44.955912",
+    "type": "chemical"
+  },
+  {
+    "id": "HyElD51dFjb",
+    "shortName": "Ti",
+    "longName": "Titanium",
+    "weight": "47.867",
+    "type": "chemical"
+  },
+  {
+    "id": "r1BlD5kuYj-",
+    "shortName": "V",
+    "longName": "Vanadium",
+    "weight": "50.9415",
+    "type": "chemical"
+  },
+  {
+    "id": "rJ8gD9J_YsZ",
+    "shortName": "Cr",
+    "longName": "Chromium",
+    "weight": "51.9961",
+    "type": "chemical"
+  },
+  {
+    "id": "r1Dewq1_FsW",
+    "shortName": "Mn",
+    "longName": "Manganese",
+    "weight": "54.938045",
+    "type": "chemical"
+  },
+  {
+    "id": "HkOeD5JuKiZ",
+    "shortName": "Fe",
+    "longName": "Iron",
+    "weight": "55.845",
+    "type": "chemical"
+  },
+  {
+    "id": "SkteD5JdYib",
+    "shortName": "Co",
+    "longName": "Cobalt",
+    "weight": "58.933195",
+    "type": "chemical"
+  },
+  {
+    "id": "S1ceD5y_YoW",
+    "shortName": "Ni",
+    "longName": "Nickel",
+    "weight": "58.6934",
+    "type": "chemical"
+  },
+  {
+    "id": "HkjevqkdYiW",
+    "shortName": "Cu",
+    "longName": "Copper",
+    "weight": "63.546",
+    "type": "chemical"
+  },
+  {
+    "id": "Hy2lw91uKsW",
+    "shortName": "Zn",
+    "longName": "Zinc",
+    "weight": "65.38",
+    "type": "chemical"
+  },
+  {
+    "id": "BJTgD5yOFib",
+    "shortName": "Ga",
+    "longName": "Gallium",
+    "weight": "69.723",
+    "type": "chemical"
+  },
+  {
+    "id": "BJRgw51uKjZ",
+    "shortName": "Ge",
+    "longName": "Germanium",
+    "weight": "72.63",
+    "type": "chemical"
+  },
+  {
+    "id": "BJkWv9kdKo-",
+    "shortName": "As",
+    "longName": "Arsenic",
+    "weight": "74.9216",
+    "type": "chemical"
+  },
+  {
+    "id": "BkeZwckOtsW",
+    "shortName": "Se",
+    "longName": "Selenium",
+    "weight": "78.96",
+    "type": "chemical"
+  },
+  {
+    "id": "rybWvqJutsZ",
+    "shortName": "Br",
+    "longName": "Bromine",
+    "weight": "79.904",
+    "type": "chemical"
+  },
+  {
+    "id": "HJf-v91_Fi-",
+    "shortName": "Kr",
+    "longName": "Krypton",
+    "weight": "83.798",
+    "type": "chemical"
+  },
+  {
+    "id": "S1XWvcy_Fi-",
+    "shortName": "Rb",
+    "longName": "Rubidium",
+    "weight": "85.4678",
+    "type": "chemical"
+  },
+  {
+    "id": "SJ4-w51OtoZ",
+    "shortName": "Sr",
+    "longName": "Strontium",
+    "weight": "87.62",
+    "type": "chemical"
+  },
+  {
+    "id": "HkHbD9kdYj-",
+    "shortName": "Y",
+    "longName": "Yttrium",
+    "weight": "88.90585",
+    "type": "chemical"
+  },
+  {
+    "id": "HJIZv91OtiW",
+    "shortName": "Zr",
+    "longName": "Zirconium",
+    "weight": "91.224",
+    "type": "chemical"
+  },
+  {
+    "id": "r1wWPq1uYjW",
+    "shortName": "Nb",
+    "longName": "Niobium",
+    "weight": "92.90628",
+    "type": "chemical"
+  },
+  {
+    "id": "SyubD5JOYjZ",
+    "shortName": "Mo",
+    "longName": "Molybdenum",
+    "weight": "95.96",
+    "type": "chemical"
+  },
+  {
+    "id": "HJF-Pc1OFjZ",
+    "shortName": "Tc",
+    "longName": "Technetium",
+    "weight": "(98)",
+    "type": "chemical"
+  },
+  {
+    "id": "H19WP91uKoZ",
+    "shortName": "Ru",
+    "longName": "Ruthenium",
+    "weight": "101.07",
+    "type": "chemical"
+  },
+  {
+    "id": "S1s-wckdYoW",
+    "shortName": "Rh",
+    "longName": "Rhodium",
+    "weight": "102.9055",
+    "type": "chemical"
+  },
+  {
+    "id": "r12-P51dYs-",
+    "shortName": "Pd",
+    "longName": "Palladium",
+    "weight": "106.42",
+    "type": "chemical"
+  },
+  {
+    "id": "r1pbwckdtoW",
+    "shortName": "Ag",
+    "longName": "Silver",
+    "weight": "107.8682",
+    "type": "chemical"
+  },
+  {
+    "id": "rJCZPck_FjW",
+    "shortName": "Cd",
+    "longName": "Cadmium",
+    "weight": "112.411",
+    "type": "chemical"
+  },
+  {
+    "id": "Sk1fv51dti-",
+    "shortName": "In",
+    "longName": "Indium",
+    "weight": "114.818",
+    "type": "chemical"
+  },
+  {
+    "id": "rylGP5JuFob",
+    "shortName": "Sn",
+    "longName": "Tin",
+    "weight": "118.71",
+    "type": "chemical"
+  },
+  {
+    "id": "HyZfvcJdtob",
+    "shortName": "Sb",
+    "longName": "Antimony",
+    "weight": "121.76",
+    "type": "chemical"
+  },
+  {
+    "id": "HyfMDckuYsb",
+    "shortName": "Te",
+    "longName": "Tellurium",
+    "weight": "127.6",
+    "type": "chemical"
+  },
+  {
+    "id": "SJmGw9yuKjW",
+    "shortName": "I",
+    "longName": "Iodine",
+    "weight": "126.90447",
+    "type": "chemical"
+  },
+  {
+    "id": "BJ4fDqyuKib",
+    "shortName": "Xe",
+    "longName": "Xenon",
+    "weight": "131.293",
+    "type": "chemical"
+  },
+  {
+    "id": "rJBzv5JdYjb",
+    "shortName": "Cs",
+    "longName": "Caesium",
+    "weight": "132.9054",
+    "type": "chemical"
+  },
+  {
+    "id": "ryIGDqk_Yjb",
+    "shortName": "Ba",
+    "longName": "Barium",
+    "weight": "132.9054",
+    "type": "chemical"
+  },
+  {
+    "id": "Skvzv5ydYi-",
+    "shortName": "La",
+    "longName": "Lanthanum",
+    "weight": "138.90547",
+    "type": "chemical"
+  },
+  {
+    "id": "HydfD9JOFsZ",
+    "shortName": "Ce",
+    "longName": "Cerium",
+    "weight": "140.116",
+    "type": "chemical"
+  },
+  {
+    "id": "ByKfw9yuYsW",
+    "shortName": "Pr",
+    "longName": "Praseodymium",
+    "weight": "140.90765",
+    "type": "chemical"
+  },
+  {
+    "id": "rJ5Mw5yOtiZ",
+    "shortName": "Nd",
+    "longName": "Neodymium",
+    "weight": "144.242",
+    "type": "chemical"
+  },
+  {
+    "id": "SyoGv51dKiZ",
+    "shortName": "Pm",
+    "longName": "Promethium",
+    "weight": "(145)",
+    "type": "chemical"
+  },
+  {
+    "id": "HJ2fD9yOFob",
+    "shortName": "Sm",
+    "longName": "Samarium",
+    "weight": "150.36",
+    "type": "chemical"
+  },
+  {
+    "id": "SkaGDqJ_Yib",
+    "shortName": "Eu",
+    "longName": "Europium",
+    "weight": "151.964",
+    "type": "chemical"
+  },
+  {
+    "id": "SkRfD9kdYoZ",
+    "shortName": "Gd",
+    "longName": "Gadolinium",
+    "weight": "157.25",
+    "type": "chemical"
+  },
+  {
+    "id": "SJkQv5JOKi-",
+    "shortName": "Tb",
+    "longName": "Terbium",
+    "weight": "158.92535",
+    "type": "chemical"
+  },
+  {
+    "id": "HJx7Dqy_FsZ",
+    "shortName": "Dy",
+    "longName": "Dysprosium",
+    "weight": "162.5",
+    "type": "chemical"
+  },
+  {
+    "id": "SyZmP5J_Kj-",
+    "shortName": "Ho",
+    "longName": "Holmium",
+    "weight": "164.93032",
+    "type": "chemical"
+  },
+  {
+    "id": "S1M7vqJOFjW",
+    "shortName": "Er",
+    "longName": "Erbium",
+    "weight": "167.259",
+    "type": "chemical"
+  },
+  {
+    "id": "H1m7w5JuYiW",
+    "shortName": "Tm",
+    "longName": "Thulium",
+    "weight": "168.93421",
+    "type": "chemical"
+  },
+  {
+    "id": "rkV7D5JOto-",
+    "shortName": "Yb",
+    "longName": "Ytterbium",
+    "weight": "173.054",
+    "type": "chemical"
+  },
+  {
+    "id": "S1BmD51_tjW",
+    "shortName": "Lu",
+    "longName": "Lutetium",
+    "weight": "174.9668",
+    "type": "chemical"
+  },
+  {
+    "id": "ryLQwqkuYiW",
+    "shortName": "Hf",
+    "longName": "Hafnium",
+    "weight": "178.49",
+    "type": "chemical"
+  },
+  {
+    "id": "HyvXv9ydYsW",
+    "shortName": "Ta",
+    "longName": "Tantalum",
+    "weight": "180.94788",
+    "type": "chemical"
+  },
+  {
+    "id": "B1uXDc1OYjW",
+    "shortName": "W",
+    "longName": "Tungsten",
+    "weight": "183.84",
+    "type": "chemical"
+  },
+  {
+    "id": "Hyt7vqkdFsW",
+    "shortName": "Re",
+    "longName": "Rhenium",
+    "weight": "186.207",
+    "type": "chemical"
+  },
+  {
+    "id": "Hyq7wq1_Ki-",
+    "shortName": "Os",
+    "longName": "Osmium",
+    "weight": "190.23",
+    "type": "chemical"
+  },
+  {
+    "id": "rkjQD9kdtjb",
+    "shortName": "Ir",
+    "longName": "Iridium",
+    "weight": "192.217",
+    "type": "chemical"
+  },
+  {
+    "id": "S12Xw5kOtjW",
+    "shortName": "Pt",
+    "longName": "Platinum",
+    "weight": "195.084",
+    "type": "chemical"
+  },
+  {
+    "id": "SJTXDcyuKi-",
+    "shortName": "Au",
+    "longName": "Gold",
+    "weight": "196.966569",
+    "type": "chemical"
+  },
+  {
+    "id": "rJAXw5J_Fjb",
+    "shortName": "Hg",
+    "longName": "Mercury",
+    "weight": "200.59",
+    "type": "chemical"
+  },
+  {
+    "id": "Hk1EPcJdtjZ",
+    "shortName": "Tl",
+    "longName": "Thallium",
+    "weight": "204.3833",
+    "type": "chemical"
+  },
+  {
+    "id": "HkxNw5yOKo-",
+    "shortName": "Pb",
+    "longName": "Lead",
+    "weight": "207.2",
+    "type": "chemical"
+  },
+  {
+    "id": "SJ-VD91uKjb",
+    "shortName": "Bi",
+    "longName": "Bismuth",
+    "weight": "208.9804",
+    "type": "chemical"
+  },
+  {
+    "id": "rkM4P91dKiW",
+    "shortName": "Po",
+    "longName": "Polonium",
+    "weight": "(209)",
+    "type": "chemical"
+  },
+  {
+    "id": "BkQNP9JdKo-",
+    "shortName": "At",
+    "longName": "Astatine",
+    "weight": "(210)",
+    "type": "chemical"
+  },
+  {
+    "id": "rJVNvqyuYsW",
+    "shortName": "Rn",
+    "longName": "Radon",
+    "weight": "(222)",
+    "type": "chemical"
+  },
+  {
+    "id": "r1SVPcyutj-",
+    "shortName": "Fr",
+    "longName": "Francium",
+    "weight": "(223)",
+    "type": "chemical"
+  },
+  {
+    "id": "rJ84w9JuKiZ",
+    "shortName": "Ra",
+    "longName": "Radium",
+    "weight": "(226)",
+    "type": "chemical"
+  },
+  {
+    "id": "Hyv4v9y_FiZ",
+    "shortName": "Ac",
+    "longName": "Actinium",
+    "weight": "(227)",
+    "type": "chemical"
+  },
+  {
+    "id": "By_Nv9k_FsZ",
+    "shortName": "Th",
+    "longName": "Thorium",
+    "weight": "232.03806",
+    "type": "chemical"
+  },
+  {
+    "id": "H1K4wckuKjb",
+    "shortName": "Pa",
+    "longName": "Protactinium",
+    "weight": "231.0588",
+    "type": "chemical"
+  },
+  {
+    "id": "S19Vvq1_Kib",
+    "shortName": "U",
+    "longName": "Uranium",
+    "weight": "238.02891",
+    "type": "chemical"
+  },
+  {
+    "id": "ByjNv91dtib",
+    "shortName": "Np",
+    "longName": "Neptunium",
+    "weight": "(237)",
+    "type": "chemical"
+  },
+  {
+    "id": "SJ3EP5ydtsb",
+    "shortName": "Pu",
+    "longName": "Plutonium",
+    "weight": "(244)",
+    "type": "chemical"
+  },
+  {
+    "id": "r16Vwcy_Fj-",
+    "shortName": "Am",
+    "longName": "Americium",
+    "weight": "(243)",
+    "type": "chemical"
+  },
+  {
+    "id": "Sy0EPcydKjb",
+    "shortName": "Cm",
+    "longName": "Curium",
+    "weight": "(247)",
+    "type": "chemical"
+  },
+  {
+    "id": "H1JBvqyuYoW",
+    "shortName": "Bk",
+    "longName": "Berkelium",
+    "weight": "(247)",
+    "type": "chemical"
+  },
+  {
+    "id": "BylSDc1dKoZ",
+    "shortName": "Cf",
+    "longName": "Californium",
+    "weight": "(251)",
+    "type": "chemical"
+  },
+  {
+    "id": "rybBDcJdFib",
+    "shortName": "Es",
+    "longName": "Einstenium",
+    "weight": "(252)",
+    "type": "chemical"
+  },
+  {
+    "id": "HyMBDck_YsZ",
+    "shortName": "Fm",
+    "longName": "Fermium",
+    "weight": "(257)",
+    "type": "chemical"
+  },
+  {
+    "id": "Sy7SDq1_KoZ",
+    "shortName": "Md",
+    "longName": "Mendelevium",
+    "weight": "(258)",
+    "type": "chemical"
+  },
+  {
+    "id": "SJNHw9kuFs-",
+    "shortName": "No",
+    "longName": "Nobelium",
+    "weight": "(259)",
+    "type": "chemical"
+  },
+  {
+    "id": "ByrSvckdFiW",
+    "shortName": "Lr",
+    "longName": "Lawrencium",
+    "weight": "(262)",
+    "type": "chemical"
+  },
+  {
+    "id": "H1LBw5k_Yj-",
+    "shortName": "Rf",
+    "longName": "Rutherfordium",
+    "weight": "(267)",
+    "type": "chemical"
+  },
+  {
+    "id": "SJwBP5JOKj-",
+    "shortName": "Db",
+    "longName": "Dubnium",
+    "weight": "(268)",
+    "type": "chemical"
+  },
+  {
+    "id": "rkdHD91dYjb",
+    "shortName": "Sg",
+    "longName": "Seaborgium",
+    "weight": "(271)",
+    "type": "chemical"
+  },
+  {
+    "id": "BytSP5kuKsZ",
+    "shortName": "Bh",
+    "longName": "Bohrium",
+    "weight": "(272)",
+    "type": "chemical"
+  },
+  {
+    "id": "Sk9BP9JOtob",
+    "shortName": "Hs",
+    "longName": "Hassium",
+    "weight": "(270)",
+    "type": "chemical"
+  },
+  {
+    "id": "S1iBw91dYsZ",
+    "shortName": "Mt",
+    "longName": "Meitnerium",
+    "weight": "(276)",
+    "type": "chemical"
+  },
+  {
+    "id": "SknBPckdYoZ",
+    "shortName": "Ds",
+    "longName": "Darmstadium",
+    "weight": "(281)",
+    "type": "chemical"
+  },
+  {
+    "id": "Sy6HD51dFoZ",
+    "shortName": "Rg",
+    "longName": "Roentgenium",
+    "weight": "(280)",
+    "type": "chemical"
+  },
+  {
+    "id": "BJABwc1dKi-",
+    "shortName": "Cn",
+    "longName": "Copernicium",
+    "weight": "(285)",
+    "type": "chemical"
+  },
+  {
+    "id": "Byk8vqkuYoZ",
+    "shortName": "Uut",
+    "longName": "Unutrium",
+    "weight": "(284)",
+    "type": "chemical"
+  },
+  {
+    "id": "HJlLw51OYs-",
+    "shortName": "Fl",
+    "longName": "Flerovium",
+    "weight": "(289)",
+    "type": "chemical"
+  },
+  {
+    "id": "H1-LP9JuFiZ",
+    "shortName": "Uup",
+    "longName": "Ununpentium",
+    "weight": "(288)",
+    "type": "chemical"
+  },
+  {
+    "id": "HyfUDq1uFib",
+    "shortName": "Lv",
+    "longName": "Livermorium",
+    "weight": "(293)",
+    "type": "chemical"
+  },
+  {
+    "id": "HymLvqJOtjZ",
+    "shortName": "Uus",
+    "longName": "Ununseptium",
+    "weight": "(294)",
+    "type": "chemical"
+  },
+  {
+    "id": "H1NUv5ydtjb",
+    "shortName": "Uuo",
+    "longName": "Ununoctium",
+    "weight": "(294)",
+    "type": "chemical"
+  }
+]

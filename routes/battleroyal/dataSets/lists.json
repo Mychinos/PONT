@@ -1,0 +1,15 @@
+{
+  "characters": [{"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" },
+    {"nickName": "Testo", "firstName": "Wolly", "lastName" : "Wololo", "type": "character" }],
+  "places": [],
+  "fractions": [],
+  "mobs": []
+}

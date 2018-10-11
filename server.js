@@ -43,6 +43,23 @@ const specialPaths = {
     requiredStyles: [
       '/static/routes/route99.css'
     ]
+  },
+  voices: {
+    requiredScripts: [
+      '/static/routes/voices.js'
+    ]
+  },
+  battleroyal: {
+    requiredScripts: [
+      '/static/lib/three.js',
+      '/static/lib/tween.min.js',
+      '/static/lib/TrackballControls.js',
+      '/static/lib/CSS3DRenderer.js',
+      '/static/routes/battleroyal.js'
+    ],
+    requiredStyles: [
+      '/static/routes/battleroyal.css'
+    ]
   }
 }
 

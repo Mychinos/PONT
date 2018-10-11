@@ -1,0 +1,77 @@
+extends ../../templates/baseLayout.pug
+
+block content
+  div.row.text-center
+    div.col-12
+      h1= "All dem Voices"
+      div.wrapper
+        header
+          canvas.visualizer(width='640', height='100')
+          div.row
+            div.col-4
+              h4 Gain Controll
+              div
+                label(for="toggleGain") Enabled &nbsp
+                input#toggleGain(type="checkbox" checked)
+              div
+                label(for="gain") Gain &nbsp
+                input#gain(type="range" max="2" min="0" step="0.01" value=1)
+            div.col-4
+              h4 Distortion Controll            
+              div
+                label(for="toggleDistortion") Enabled &nbsp
+                input#toggleDistortion(type="checkbox" checked)
+              div
+                label(for='oversample') Oversample &nbsp
+                select#oversample
+                  option(selected) none
+                  option 2x
+                  option 4x
+            div.col-4
+              h4 BiquadFilter
+              div
+                label(for="toggleBiquad") Enabled &nbsp
+                input#toggleBiquad(type="checkbox" checked)
+              div
+                label(for="filterType") Type &nbsp
+                select#filterType
+                  option(selected) lowpass
+                  option highpass
+                  option bandpass
+                  option lowshelf
+                  option highshelf
+                  option peaking
+                  option notch
+                  option allpass
+              div
+                label(for="biquadGain") Gain &nbsp
+                input#biquadGain(type="range" max="2" min="0" step="0.01" value=1)
+              div
+                label(for="biquadFreqency") Frequency &nbsp
+                input#biquadFreqency(type="range" max="10000" min="0" step="100" value=1)
+              div
+                label(for="biquadDetune") Detune &nbsp
+                input#biquadDetune(type="range" max="1000" min="0" step="1" value=1)
+              div
+                label(for="biquadQ") Q &nbsp
+                input#biquadQ(type="range" max="100" min="0.0001" step="0.01" value=1)
+            div.col-4
+              h4 Presets
+              form.controls
+              div
+                label(for='voice') Voice setting
+                select#voice(name='voice')
+                  option(value='distortion') Distortion
+                  option(value='convolver') Reverb
+                  option(value='biquad') Bass Boost
+                  option(value='off', selected='') Off
+              div
+                label(for='visual') Visualizer setting
+                select#visual(name='visual')
+                  option(value='sinewave') Sinewave
+                  option(value='frequencybars', selected='') Frequency bars
+                  option(value='off') Off
+              div
+                a.mute Mute
+                label(for='toggle') ❔
+                input#toggle(type='checkbox')
