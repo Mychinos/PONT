@@ -1,0 +1,5 @@
+div#NavBar.row.text-center
+  each routeName in Object.keys(routes)
+    -var routeOptions = routes[routeName]
+    div.col-1.navElement 
+      a.navLink(href=routeOptions.mountPath)= routeName.toUpperCase()

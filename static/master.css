@@ -1,0 +1,49 @@
+
+#NavBar .navElement {
+  background: black;
+  border: 2px solid steelblue;
+  border-left: 1px;
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+#Background {
+  background: url(/static/images/hex-bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  position:fixed;
+  z-index: -100
+}
+
+body {
+  color: #007bff;
+}
+
+#Background #Layer {  
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Background.comrade {
+  background-image: url(/static/images/comrad-bg.jpg)
+}
+
+#Background.comrade #Layer {
+  background-color: rgba(47, 3, 4, 0.95);
+} 
+
+
+#Background.eyes {
+  background-image: url(/static/images/eyes-bg.png)
+}
+
+#Background.eyes #Layer {
+  background-color: rgba(47, 3, 4, 0.95);
+} 
